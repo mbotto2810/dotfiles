@@ -1,8 +1,8 @@
 !! Transparency (0-1):
-*.alpha: 1.00
+*.alpha: 0.92
 
 !! Set a default font and font size as below:
-*.font:	Liberation Mono:pixelsize=20:antialias=true:autohint=true;
+*.font:	Liberation Mono:pixelsize=17:antialias=true:autohint=true;
 
 /* name		dark	light */
 /* black	0	8 */

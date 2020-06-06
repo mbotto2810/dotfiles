@@ -9,7 +9,6 @@ alias \
 	l="ls -lh" \
 	mv="mv -iv" \
 	rm="rm -vI" \
-	c="clear" \
 	mkd="mkdir -pv" \
 	yt="youtube-dl --add-metadata -i" \
 	yta="yt -x -f bestaudio/best" \
@@ -31,7 +30,6 @@ alias \
 	YT="youtube-viewer" \
 	sdn="sudo shutdown -h now" \
 	f="$FILE" \
-	e="exit" \
 	v="$EDITOR" \
 	p="sudo pacman" \
 	xi="sudo xbps-install" \
