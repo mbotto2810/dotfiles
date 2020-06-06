@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/maruan/.config/pomotroid/logs/.5edfab6cbd6eb713e9fa4221b0b11e7882b96f73-audit.json",
+    "files": [
+        {
+            "date": 1591284229730,
+            "name": "/home/maruan/.config/pomotroid/logs/pomotroid-2020-06-04.log",
+            "hash": "011a9a9aa27ed18989747bfcd67a4994"
+        },
+        {
+            "date": 1591358652760,
+            "name": "/home/maruan/.config/pomotroid/logs/pomotroid-2020-06-05.log",
+            "hash": "9aaa96858971cd9ff77a73215f869fdc"
+        }
+    ]
+}
