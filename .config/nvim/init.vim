@@ -50,7 +50,7 @@ Plug 'metakirby5/codi.vim'
 Plug 'dkarter/bullets.vim'
 
 " Entertainment
-Plug 'ryanss/vim-hackernews'
+" Plug 'ryanss/vim-hackernews'
 
 call plug#end()
 

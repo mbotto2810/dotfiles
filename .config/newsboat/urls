@@ -1,11 +1,28 @@
-https://www.reddit.com/r/languagelearning.rss "~reddit languagelearning"
-https://www.reddit.com/r/linux.rss "~reddir linux"
-https://www.reddit.com/r/brasil.rss "~reddit brasil"
-
-https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke channel"
-
-https://www.youtube.com/feeds/videos.xml?channel_id=Computerphile "~Computerphile channel"
-
-https://www.youtube.com/feeds/videos.xml?channel_id=eaterbc "~Eater channel"
-
+##
+https://www.reddit.com/r/languagelearning.rss
+##
+https://www.reddit.com/r/linux.rss
+##
+https://www.reddit.com/r/brasil.rss
+##
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
+##
+https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=Computerphile&duration_min=0&duration_max=&format=Mrss
+##
+https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=eaterbc&duration_min=0&duration_max=&format=Atom
+##
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_ufhZd8W48-_ofWmAfpmw "~Tavares channel"
+##
+https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=Pirulla25&duration_min=0&duration_max=&format=Mrss
+##
+https://blog.quarkslab.com/feeds/all.rss.xml
+##
+https://os.phil-opp.com/rss.xml
+##
+https://stallman.org/rss/
+##
+https://terrytao.wordpress.com/feed/
+##
+http://feeds.nature.com/nature/rss/current?x=1
+##
+https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=MentalOutlawStudios&duration_min=&duration_max=&format=Mrss
