@@ -30,6 +30,7 @@ alias \
 	YT="youtube-viewer" \
 	sdn="sudo shutdown -h now" \
 	f="$FILE" \
+    t="tmux" \
 	v="$EDITOR" \
 	p="sudo pacman" \
 	xi="sudo xbps-install" \

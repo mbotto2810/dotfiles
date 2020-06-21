@@ -15,13 +15,13 @@ static const Block blocks[] = {
 //	{"",	"nettraf",	1,	16},
 	{"",	"volume",	0,	10},
 	{"",	"battery | tr \'\n\' \' \'",	5,	3},
+	{"",	"internet",	5,	4},
 	{"",	"clock",	60,	1},
-//	{"",	"internet",	5,	4},
 //	{"",	"help-icon",	0,	15},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
-static char delim = '|';
+static char delim = ' ';
 
 // Have dwmblocks automatically recompile and run when you edit this file in
 // vim with the following line in your vimrc/init.vim:

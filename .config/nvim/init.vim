@@ -12,6 +12,8 @@ Plug 'junegunn/goyo.vim'
 Plug 'junegunn/limelight.vim'
 Plug 'junegunn/seoul256.vim'
 Plug 'junegunn/vim-journal'
+Plug 'lervag/vimtex'
+Plug 'w0rp/ale',{ 'on':  'ALEToggle' }
 Plug 'junegunn/rainbow_parentheses.vim'
 Plug 'nightsense/forgotten'
 Plug 'zaki/zazen'
@@ -48,7 +50,7 @@ Plug 'metakirby5/codi.vim'
 Plug 'dkarter/bullets.vim'
 
 " Entertainment
-"Plug 'ryanss/vim-hackernews'
+Plug 'ryanss/vim-hackernews'
 
 call plug#end()
 
@@ -85,15 +87,17 @@ set title
 """ Plugin Configurations
 
 " NERDTree
-let NERDTreeShowHidden=1
+let NERDTreeShowHidden=0
 let g:NERDTreeDirArrowExpandable = '↠'
 let g:NERDTreeDirArrowCollapsible = '↡'
+let g:NERDTreeWinSize = 20
+let g:NERDTreeMinimalUI = 1
 
 " Airline
 let g:airline_powerline_fonts = 1
 let g:airline_section_z = ' %{strftime("%-I:%M %p")}'
 let g:airline_section_warning = ''
-"let g:airline#extensions#tabline#enabled = 1
+" let g:airline#extensions#tabline#enabled = 1
 
 " Neovim :Terminal
 tmap <Esc> <C-\><C-n>
@@ -186,8 +190,7 @@ function! ColorSeoul256()
 endfunction
 
 " Forgotten Mode (Light)
-function! ColorForgotten()
-    " Light airline themes: tomorrow, silver, alduin
+function! ColorForgotten()    " Light airline themes: tomorrow, silver, alduin
     " Light colors: forgotten-light, nemo-light
     let g:airline_theme='tomorrow'
     color forgotten-light
@@ -263,3 +266,9 @@ endif
 
 " Auto compile dwmblocks
 	autocmd BufWritePost ~/.local/src/dwmblocks/config.h !cd ~/.local/src/dwmblocks/; sudo make install && { killall -q dwmblocks;setsid dwmblocks & }
+	set number relativenumber nu
+
+    " Set this in your vimrc file to disabling highlighting
+    let g:ale_set_highlights = 0
+
+    map <leader>c :w! \| !compiler <c-r>%<CR>
