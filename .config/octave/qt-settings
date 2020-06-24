@@ -2,7 +2,7 @@
 autoIdentification=false
 connectOnStartup=true
 customFileEditor=emacs +%l %f
-monospace_font=FreeMono
+monospace_font=Liberation Mono
 proxyHostName=none
 proxyPassword=
 proxyPort=8080
