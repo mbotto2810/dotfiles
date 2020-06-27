@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static const unsigned int borderpx  = 3;        /* border pixel of windows */
+static const unsigned int borderpx  = 1;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const unsigned int gappih    = 0;       /* horiz inner gap between windows */
 static const unsigned int gappiv    = 0;       /* vert inner gap between windows */
@@ -19,7 +19,6 @@ static char normfgcolor[]           = "#bbbbbb";
 static char selfgcolor[]            = "#eeeeee";
 static char selbordercolor[]        = "#005577";
 static char selbgcolor[]            = "#005577";
-
 
 static char *colors[][3] = {
        /*               fg           bg           border   */
