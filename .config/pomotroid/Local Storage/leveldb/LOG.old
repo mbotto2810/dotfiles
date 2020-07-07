@@ -1,3 +1,3 @@
-2020/06/25-11:11:38.906 3fc99 Reusing MANIFEST /home/maruan/.config/pomotroid/Local Storage/leveldb/MANIFEST-000001
-2020/06/25-11:11:38.910 3fc99 Recovering log #3
-2020/06/25-11:11:38.910 3fc99 Reusing old log /home/maruan/.config/pomotroid/Local Storage/leveldb/000003.log 
+2020/06/27-15:18:20.984 e8abd Reusing MANIFEST /home/maruan/.config/pomotroid/Local Storage/leveldb/MANIFEST-000001
+2020/06/27-15:18:20.989 e8abd Recovering log #3
+2020/06/27-15:18:20.989 e8abd Reusing old log /home/maruan/.config/pomotroid/Local Storage/leveldb/000003.log 
