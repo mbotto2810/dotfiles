@@ -6,26 +6,6 @@
     "auditLog": "/home/maruan/.config/pomotroid/logs/.5edfab6cbd6eb713e9fa4221b0b11e7882b96f73-audit.json",
     "files": [
         {
-            "date": 1592689806362,
-            "name": "/home/maruan/.config/pomotroid/logs/pomotroid-2020-06-20.log",
-            "hash": "426552e776fbabc9ab3a522157d8d2ec"
-        },
-        {
-            "date": 1592771023693,
-            "name": "/home/maruan/.config/pomotroid/logs/pomotroid-2020-06-21.log",
-            "hash": "c52bbf4db1ce0c94dbc645a01bd27151"
-        },
-        {
-            "date": 1593014428359,
-            "name": "/home/maruan/.config/pomotroid/logs/pomotroid-2020-06-24.log",
-            "hash": "b9e3cc8bdf442071bb2c798cc32c30d0"
-        },
-        {
-            "date": 1593085494030,
-            "name": "/home/maruan/.config/pomotroid/logs/pomotroid-2020-06-25.log",
-            "hash": "ecb6e7f8a87ff0168c5db73eada9f43b"
-        },
-        {
             "date": 1593196415945,
             "name": "/home/maruan/.config/pomotroid/logs/pomotroid-2020-06-26.log",
             "hash": "149572d543c07820c80022c2d9d6a265"
@@ -39,6 +19,11 @@
             "date": 1593718002007,
             "name": "/home/maruan/.config/pomotroid/logs/pomotroid-2020-07-02.log",
             "hash": "52122ab4e740c10bb25591fe6b1c9737"
+        },
+        {
+            "date": 1594331836631,
+            "name": "/home/maruan/.config/pomotroid/logs/pomotroid-2020-07-09.log",
+            "hash": "79be5390e25a857a277d2cb4854fb354"
         }
     ]
 }
