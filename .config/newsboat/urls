@@ -3,28 +3,23 @@
 ------------------------
 https://steps-centre.org/feed/ "~NEWSFEED: STEPS"
 https://www.techdirt.com/techdirt_rss.xml  "~NEWSFEED: Tech Dirt"
-https://www.networkworld.com/category/linux/index.rss "~NEWSFEED: Network World (Linux)"
+https://blog.quarkslab.com/feeds/all.rss.xml "~NEWSFEED: QuarksLab"
 http://feeds.nature.com/nature/rss/current?x=1 "~NEWSFEED: Nature"
 https://www.computerworld.com/index.rss "~NEWSFEED: Computer World"
-http://feeds.feedburner.com/d0od "~NEWSFEED: OMG Ubuntu!"
+https://www.blackhat.com/BlackHat-webcasts.xml "~NEWSFEED: Black Hat"
 https://os.phil-opp.com/rss.xml "~NEWSFEED: OS in Rust"
 https://terrytao.wordpress.com/feed/ "~NEWSFEED: Terry Tao"
-https://www.techrepublic.com/rssfeeds/topic/open-source/ "~NEWSFEED: Tech Republic (Open Source)"
-https://hackaday.com/blog/feed/ "~NEWSFEED: Hackaday"
 -------------------------
 -------YOUTUBE-----------
 -------------------------
 https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=Pirulla25&duration_min=0&duration_max=&format=Mrss "~YOUTUBE: Pirulla"
 https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=eaterbc&duration_min=0&duration_max=&format=Atom "~YOUTUBE: Ben Eater"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_ufhZd8W48-_ofWmAfpmw "~YOUTUBE: Tavares"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~YOUTUBE: Luke Smith"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_ufhZd8W48-_ofWmAfpmw "~Tavares channel"
-https://invidio.us/feed/channel/UCYhTgGdeaBbbZ-h_LVJ_6bw
-https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
-https://www.youtube.com/feeds/videos.xml?channel_id=UCSkzHxIcfoEr69MWBdo0ppg
-https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=Computerphile&duration_min=0&duration_max=&format=Mrss
-https://invidio.us/feed/channel/UCYhTgGdeaBbbZ-h_LVJ_6bw
-https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=MentalOutlawStudios&duration_min=&duration_max=&format=Mrss
-https://invidio.us/feed/channel/UCoxcjq-8xIDTYp3uz647V5A
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSkzHxIcfoEr69MWBdo0ppg "~YOUTUBE: Cuck Philosophy"
+https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=Computerphile&duration_min=0&duration_max=&format=Mrss  "~YOUTUBE: Computerphile"
+https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=MentalOutlawStudios&duration_min=&duration_max=&format=Mrss "~YOUTUBE: Mental Outlaw""
+https://invidio.us/feed/channel/UCoxcjq-8xIDTYp3uz647V5A "~YOUTUBE: Numberphile"
 -------------------------
 -------REDDIT------------
 -------------------------
@@ -37,13 +32,15 @@ https://old.reddit.com/r/worldnews.rss "~REDDIT: r/world_news"
 https://old.reddit.com/r/C_Programming.rss "~REDDIT: r/C_programming"
 https://old.reddit.com/r/nosurf.rss "~REDDIT: r/nosurf"
 https://old.reddit.com/r/privacy.rss "~REDDIT: r/privacy"
-hhttps://old.reddit.com/r/learnprogramming.rss "~REDDIT: r/learnprogramming"
+https://old.reddit.com/r/learnprogramming.rss "~REDDIT: r/learnprogramming"
 https://old.reddit.com/r/programming.rss "~REDDIT: r/programming"
 https://www.reddit.com/r/vim.rss "~REDDIT: r/vim"
 -------------------------
 -------GIT_REPOS---------
 -------------------------
 https://github.com/LukeSmithxyz.atom "~GITHUB: LukeSmithxyz"
+https://github.com/algorithm-archivists.atom "~GITHUB: Algorithm Archive"
+
 -------------------------
 -------SOURCEFORGE-------
 -------------------------
@@ -52,7 +49,6 @@ https://sourceforge.net/mirror/tor-browser/activity/feed "~SOURCEFORGE: Tor Brow
 -------ARCHLINUX---------
 -------------------------
 https://www.archlinux.org/feeds/packages/added/ "~ARCH: Packages Added"
-https://blog.quarkslab.com/feeds/all.rss.xml "~QuarksLab"
 https://www.archlinux.org/feeds/packages/removed/ "~ARCH: Packages Removed"
 https://aur.archlinux.org/rss/ "~ARCH: Packages Added (AUR)"
 https://wiki.archlinux.org/api.php?hidebots=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=rss "~ARCH: Arch Wiki"
