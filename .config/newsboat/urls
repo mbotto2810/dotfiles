@@ -1,6 +1,3 @@
-------------------------
--------NEWSFEEDS--------
-------------------------
 https://steps-centre.org/feed/ "~NEWSFEED: STEPS"
 https://www.techdirt.com/techdirt_rss.xml  "~NEWSFEED: Tech Dirt"
 https://blog.quarkslab.com/feeds/all.rss.xml "~NEWSFEED: QuarksLab"
@@ -9,9 +6,6 @@ https://www.computerworld.com/index.rss "~NEWSFEED: Computer World"
 https://www.blackhat.com/BlackHat-webcasts.xml "~NEWSFEED: Black Hat"
 https://os.phil-opp.com/rss.xml "~NEWSFEED: OS in Rust"
 https://terrytao.wordpress.com/feed/ "~NEWSFEED: Terry Tao"
--------------------------
--------YOUTUBE-----------
--------------------------
 https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=Pirulla25&duration_min=0&duration_max=&format=Mrss "~YOUTUBE: Pirulla"
 https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=eaterbc&duration_min=0&duration_max=&format=Atom "~YOUTUBE: Ben Eater"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_ufhZd8W48-_ofWmAfpmw "~YOUTUBE: Tavares"
@@ -20,9 +14,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCSkzHxIcfoEr69MWBdo0ppg "~Y
 https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=Computerphile&duration_min=0&duration_max=&format=Mrss  "~YOUTUBE: Computerphile"
 https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=MentalOutlawStudios&duration_min=&duration_max=&format=Mrss "~YOUTUBE: Mental Outlaw""
 https://invidio.us/feed/channel/UCoxcjq-8xIDTYp3uz647V5A "~YOUTUBE: Numberphile"
--------------------------
--------REDDIT------------
--------------------------
 https://www.reddit.com/r/linux.rss "~REDDIT: r/linux"
 https://old.reddit.com/r/StallmanWasRight.rss "~REDDIT: r/stallman_wasright"
 https://old.reddit.com/r/electronics.rss "~REDDIT: r/electronics"
@@ -35,19 +26,9 @@ https://old.reddit.com/r/privacy.rss "~REDDIT: r/privacy"
 https://old.reddit.com/r/learnprogramming.rss "~REDDIT: r/learnprogramming"
 https://old.reddit.com/r/programming.rss "~REDDIT: r/programming"
 https://www.reddit.com/r/vim.rss "~REDDIT: r/vim"
--------------------------
--------GIT_REPOS---------
--------------------------
 https://github.com/LukeSmithxyz.atom "~GITHUB: LukeSmithxyz"
 https://github.com/algorithm-archivists.atom "~GITHUB: Algorithm Archive"
-
--------------------------
--------SOURCEFORGE-------
--------------------------
 https://sourceforge.net/mirror/tor-browser/activity/feed "~SOURCEFORGE: Tor Browser"
--------------------------
--------ARCHLINUX---------
--------------------------
 https://www.archlinux.org/feeds/packages/added/ "~ARCH: Packages Added"
 https://www.archlinux.org/feeds/packages/removed/ "~ARCH: Packages Removed"
 https://aur.archlinux.org/rss/ "~ARCH: Packages Added (AUR)"
