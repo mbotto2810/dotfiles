@@ -265,10 +265,15 @@ if &diff
 endif
 
 " Auto compile dwmblocks
-	autocmd BufWritePost ~/.local/src/dwmblocks/config.h !cd ~/.local/src/dwmblocks/; sudo make install && { killall -q dwmblocks;setsid dwmblocks & }
-	set number relativenumber nu
+autocmd BufWritePost ~/.local/src/dwmblocks/config.h !cd ~/.local/src/dwmblocks/; sudo make install && { killall -q dwmblocks;setsid dwmblocks & }
 
-    " Set this in your vimrc file to disabling highlighting
-    let g:ale_set_highlights = 0
+set number relativenumber nu
 
-    map <leader>c :w! \| !compiler <c-r>%<CR>
+" Set this in your vimrc file to disabling highlighting
+let g:ale_set_highlights = 0
+
+" Compile document, be it groff/LaTeX/markdown/etc.
+map <leader>c :w! \| !compiler <c-r>%<CR>
+
+" Runs a script that cleans out tex build files whenever I close out of a .tex file.
+	autocmd VimLeave *.tex !texclear %
