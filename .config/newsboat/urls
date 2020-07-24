@@ -1,52 +1,95 @@
-https://steps-centre.org/feed/ "~NEWSFEED: STEPS"
-https://www.techdirt.com/techdirt_rss.xml  "~NEWSFEED: Tech Dirt"
-https://blog.quarkslab.com/feeds/all.rss.xml "~NEWSFEED: QuarksLab"
-http://feeds.nature.com/nature/rss/current?x=1 "~NEWSFEED: Nature"
-https://www.computerworld.com/index.rss "~NEWSFEED: Computer World"
-https://www.blackhat.com/BlackHat-webcasts.xml "~NEWSFEED: Black Hat"
-https://os.phil-opp.com/rss.xml "~NEWSFEED: OS in Rust"
-https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=eaterbc&duration_min=0&duration_max=&format=Atom "~YOUTUBE: Ben Eater"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_ufhZd8W48-_ofWmAfpmw "~YOUTUBE: Tavares"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~YOUTUBE: Luke Smith"
-https://videos.lukesmith.xyz/feeds/videos.atom?videoChannelId=2 "~PEERTUBE: Luke Smith"
-https://invidio.us/feed/channel/UCYO_jab_esuFRV4b17AJtAw "~YOUTUBE: 3Blue1Brown"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCSkzHxIcfoEr69MWBdo0ppg "~YOUTUBE: Cuck Philosophy"
-https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=Computerphile&duration_min=0&duration_max=&format=Mrss  "~YOUTUBE: Computerphile"
-https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=MentalOutlawStudios&duration_min=&duration_max=&format=Mrss "~YOUTUBE: Mental Outlaw""
-https://invidio.us/feed/channel/UCoxcjq-8xIDTYp3uz647V5A "~YOUTUBE: Numberphile"
-https://www.reddit.com/r/linux.rss "~REDDIT: r/linux"
-https://old.reddit.com/r/StallmanWasRight.rss "~REDDIT: r/stallman_wasright"
-https://old.reddit.com/r/electronics.rss "~REDDIT: r/electronics"
-https://old.reddit.com/r/AskReddit.rss "~REDDIT: r/ask_reddit"
-https://www.reddit.com/r/languagelearning.rss "~REDDIT: r/language_learning"
-https://old.reddit.com/r/worldnews.rss "~REDDIT: r/world_news"
-https://old.reddit.com/r/C_Programming.rss "~REDDIT: r/C_programming"
-https://old.reddit.com/r/nosurf.rss "~REDDIT: r/nosurf"
-https://old.reddit.com/r/privacy.rss "~REDDIT: r/privacy"
-https://old.reddit.com/r/learnprogramming.rss "~REDDIT: r/learnprogramming"
-https://old.reddit.com/r/programming.rss "~REDDIT: r/programming"
-https://www.reddit.com/r/vim.rss "~REDDIT: r/vim"
-https://github.com/LukeSmithxyz.atom "~GITHUB: LukeSmithxyz"
-https://github.com/algorithm-archivists.atom "~GITHUB: Algorithm Archive"
-https://sourceforge.net/mirror/tor-browser/activity/feed "~SOURCEFORGE: Tor Browser"
-https://www.archlinux.org/feeds/packages/added/ "~ARCH: Packages Added"
-https://www.archlinux.org/feeds/packages/removed/ "~ARCH: Packages Removed"
-https://aur.archlinux.org/rss/ "~ARCH: Packages Added (AUR)"
-https://wiki.archlinux.org/api.php?hidebots=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=rss "~ARCH: Arch Wiki"
-https://artixlinux.org/feed.php "~ARTIX"
-========================================================================
-https://11011110.github.io/blog/all/ "~MATH"
+hhttps://11011110.github.io/blog/all/ "~MATH"
+
 https://alexsisto.wordpress.com/feed/ "~MATH"
+
 https://almostoriginality.wordpress.com/feed/ "~MATH"
+
 https://qchu.wordpress.com/feed/ "~MATH"
+
 http://www.arsmathematica.net/feed/ "~MATH"
+
 https://blogderbeweise.wordpress.com/feed/ "~MATH"
+
 https://gilkalai.wordpress.com/feed/ "~MATH"
+
 https://blog.computationalcomplexity.org/feeds/posts/default?alt=rss "~MATH"
+
 https://rjlipton.wordpress.com/feed/ "~MATH"
+
 https://joelmoreira.wordpress.com/feed/ "~MATH"
+
 https://igorpak.wordpress.com/feed/ "~MATH"
+
 https://yannisparissis.wordpress.com/feed/ "~MATH"
+
 https://ldtopology.wordpress.com/feed/ "~MATH"
+
 https://zhenghezhang.wordpress.com/feed/ "~MATH"
-https://terrytao.wordpress.com/feed/ "~MATH"
+
+https://terrytao.wordpress.com/feed/ "~MATH"ttps://steps-centre.org/feed/ "~NEWSFEED: STEPS"
+
+https://www.techdirt.com/techdirt_rss.xml  "~NEWSFEED: Tech Dirt"
+
+https://blog.quarkslab.com/feeds/all.rss.xml "~NEWSFEED: QuarksLab"
+
+http://feeds.nature.com/nature/rss/current?x=1 "~NEWSFEED: Nature"
+
+https://www.computerworld.com/index.rss "~NEWSFEED: Computer World"
+
+https://www.blackhat.com/BlackHat-webcasts.xml "~NEWSFEED: Black Hat"
+
+https://os.phil-opp.com/rss.xml "~NEWSFEED: OS in Rust"
+
+https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=eaterbc&duration_min=0&duration_max=&format=Atom "~YOUTUBE: Ben Eater"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_ufhZd8W48-_ofWmAfpmw "~YOUTUBE: Tavares"
+
+https://videos.lukesmith.xyz/feeds/videos.atom?videoChannelId=2 "~PEERTUBE: Luke Smith"
+
+https://invidio.us/feed/channel/UCYO_jab_esuFRV4b17AJtAw "~YOUTUBE: 3Blue1Brown"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSkzHxIcfoEr69MWBdo0ppg "~YOUTUBE: Cuck Philosophy"
+
+https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=Computerphile&duration_min=0&duration_max=&format=Mrss  "~YOUTUBE: Computerphile"
+
+https://invidio.us/feed/channel/UCoxcjq-8xIDTYp3uz647V5A "~YOUTUBE: Numberphile"
+
+https://www.reddit.com/r/linux.rss "~REDDIT: r/linux"
+
+https://old.reddit.com/r/StallmanWasRight.rss "~REDDIT: r/stallman_wasright"
+
+https://old.reddit.com/r/electronics.rss "~REDDIT: r/electronics"
+
+https://old.reddit.com/r/AskReddit.rss "~REDDIT: r/ask_reddit"
+
+https://www.reddit.com/r/languagelearning.rss "~REDDIT: r/language_learning"
+
+https://old.reddit.com/r/worldnews.rss "~REDDIT: r/world_news"
+
+https://old.reddit.com/r/C_Programming.rss "~REDDIT: r/C_programming"
+
+https://old.reddit.com/r/nosurf.rss "~REDDIT: r/nosurf"
+
+https://old.reddit.com/r/privacy.rss "~REDDIT: r/privacy"
+
+https://old.reddit.com/r/learnprogramming.rss "~REDDIT: r/learnprogramming"
+
+https://old.reddit.com/r/programming.rss "~REDDIT: r/programming"
+
+https://www.reddit.com/r/vim.rss "~REDDIT: r/vim"
+
+https://github.com/algorithm-archivists.atom "~GITHUB: Algorithm Archive"
+
+https://sourceforge.net/mirror/tor-browser/activity/feed "~SOURCEFORGE: Tor Browser"
+
+https://www.archlinux.org/feeds/packages/added/ "~ARCH: Packages Added"
+
+https://www.archlinux.org/feeds/packages/removed/ "~ARCH: Packages Removed"
+
+https://aur.archlinux.org/rss/ "~ARCH: Packages Added (AUR)"
+
+https://wiki.archlinux.org/api.php?hidebots=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=rss "~ARCH: Arch Wiki"
+
+https://artixlinux.org/feed.php "~ARTIX"
+
+https://nyaa.si/?page=rss "~NYA"
