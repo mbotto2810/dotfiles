@@ -54,42 +54,12 @@ https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+usernam
 
 https://invidio.us/feed/channel/UCoxcjq-8xIDTYp3uz647V5A "~YOUTUBE: Numberphile"
 
-https://www.reddit.com/r/linux.rss "~REDDIT: r/linux"
-
-https://old.reddit.com/r/StallmanWasRight.rss "~REDDIT: r/stallman_wasright"
-
-https://old.reddit.com/r/electronics.rss "~REDDIT: r/electronics"
-
-https://old.reddit.com/r/AskReddit.rss "~REDDIT: r/ask_reddit"
-
 https://www.reddit.com/r/languagelearning.rss "~REDDIT: r/language_learning"
 
-https://old.reddit.com/r/worldnews.rss "~REDDIT: r/world_news"
-
 https://old.reddit.com/r/C_Programming.rss "~REDDIT: r/C_programming"
-
-https://old.reddit.com/r/nosurf.rss "~REDDIT: r/nosurf"
-
-https://old.reddit.com/r/privacy.rss "~REDDIT: r/privacy"
 
 https://old.reddit.com/r/learnprogramming.rss "~REDDIT: r/learnprogramming"
 
 https://old.reddit.com/r/programming.rss "~REDDIT: r/programming"
 
 https://www.reddit.com/r/vim.rss "~REDDIT: r/vim"
-
-https://github.com/algorithm-archivists.atom "~GITHUB: Algorithm Archive"
-
-https://sourceforge.net/mirror/tor-browser/activity/feed "~SOURCEFORGE: Tor Browser"
-
-https://www.archlinux.org/feeds/packages/added/ "~ARCH: Packages Added"
-
-https://www.archlinux.org/feeds/packages/removed/ "~ARCH: Packages Removed"
-
-https://aur.archlinux.org/rss/ "~ARCH: Packages Added (AUR)"
-
-https://wiki.archlinux.org/api.php?hidebots=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=rss "~ARCH: Arch Wiki"
-
-https://artixlinux.org/feed.php "~ARTIX"
-
-https://nyaa.si/?page=rss "~NYA"
