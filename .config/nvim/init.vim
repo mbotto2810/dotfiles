@@ -11,6 +11,7 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'junegunn/goyo.vim'
 Plug 'junegunn/limelight.vim'
 Plug 'junegunn/seoul256.vim'
+Plug 'morhetz/gruvbox'
 Plug 'junegunn/vim-journal'
 Plug 'lervag/vimtex'
 Plug 'w0rp/ale',{ 'on':  'ALEToggle' }
@@ -59,7 +60,7 @@ let g:python3_host_prog = expand('~/.config/nvim/env/bin/python')
 
 """ Coloring
 syntax on
-color default
+color gruvbox
 highlight Pmenu guibg=white guifg=black gui=bold
 highlight Comment gui=bold
 highlight Normal gui=none
@@ -94,9 +95,10 @@ let g:NERDTreeWinSize = 20
 let g:NERDTreeMinimalUI = 1
 
 " Airline
-let g:airline_powerline_fonts = 1
+" let g:airline_powerline_fonts = 1
 let g:airline_section_z = ' %{strftime("%-I:%M %p")}'
 let g:airline_section_warning = ''
+ let g:airline_theme='base16'
 " let g:airline#extensions#tabline#enabled = 1
 
 " Neovim :Terminal
