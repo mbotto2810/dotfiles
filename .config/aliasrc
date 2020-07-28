@@ -36,8 +36,7 @@ alias \
 	xi="sudo xbps-install" \
 	xr="sudo xbps-remove -R" \
 	xq="xbps-query" \
-	z="zathura" \
-    tra="transset-df 0.95"
+	z="zathura"
 
 alias \
 	magit="nvim -c MagitOnly" \
