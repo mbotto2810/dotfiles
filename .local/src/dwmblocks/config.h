@@ -4,6 +4,9 @@ static const Block blocks[] = {
 	{"",    "cat /tmp/recordingicon 2>/dev/null",	0,	9},
     {"",    "space.sh"},
 
+    {"",    "echo "},
+    {"",    "echo "},
+    {"",    "echo 🎵"},
 	{"",	"music",	1,	11},
     {"",    "space.sh"},
 
@@ -40,7 +43,7 @@ static const Block blocks[] = {
 
 	{"",	"clock",	60,	1},
 	{"",    "echo '🐧' "},
-	{"",    "echo '🐧' "},
+	{"",    "echo '🇧🇷' "},
 	{"",    "echo '🐧' "},
 
 
