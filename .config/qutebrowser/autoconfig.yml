@@ -6,7 +6,5 @@
 
 config_version: 2
 settings:
-  statusbar.position:
-    global: top
-  tabs.position:
-    global: bottom
+  content.javascript.enabled:
+    global: true
