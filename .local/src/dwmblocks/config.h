@@ -11,26 +11,32 @@ static const Block blocks[] = {
     {"",    "space.sh"},
 
 //	{"",	"pacpackages",	0,	8},
+//    {"",    "space.sh"},
 
 //	{"",	"news",		0,	6},
+//   {"",    "space.sh"},
 
-//	{"",	"crypto",	0,	13},
+	{"",	"crypto",	0,	13},
+    {"",    "space.sh"},
 
 	{"",	"torrent",	20,	7},
     {"",    "space.sh"},
 
-//	{"",	"memory",	10,	14},
+	{"",	"memory",	10,	14},
+	{"",	"cpu",		10,	13},
+    {"",    "space.sh"},
 
-//	{"",	"cpu",		10,	13},
+//    {"",	"moonphase",	18000,	5},
+//    {"",    "space.sh"},
 
-//	{"",	"moonphase",	18000,	5},
-
-//	{"",	"weather",	18000,	5},
+//    {"",	"weather",	18000,	5},
+//    {"",    "space.sh"},
 
 	{"",	"mailbox",	180,	12},
     {"",    "space.sh"},
 
-//	{"",	"nettraf",	1,	16},
+//    {"",	"nettraf",	1,	16},
+//    {"",    "space.sh"},
 
 	{"",	"volume",	0,	10},
     {"",    "space.sh"},

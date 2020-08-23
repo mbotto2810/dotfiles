@@ -7,4 +7,6 @@
 config_version: 2
 settings:
   content.javascript.enabled:
+    global: false
+  scrolling.smooth:
     global: true

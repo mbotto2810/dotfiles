@@ -137,10 +137,6 @@ config.set('content.images', True, 'devtools://*')
 
 # Enable JavaScript.
 # Type: Bool
-c.content.javascript.enabled = False
-
-# Enable JavaScript.
-# Type: Bool
 config.set('content.javascript.enabled', True, 'chrome-devtools://*')
 
 # Enable JavaScript.
@@ -154,6 +150,15 @@ config.set('content.javascript.enabled', True, 'chrome://*/*')
 # Enable JavaScript.
 # Type: Bool
 config.set('content.javascript.enabled', True, 'qute://*/*')
+
+# Enable JavaScript.
+# Type: Bool
+c.content.javascript.enabled = True
+
+# Enable smooth scrolling for web pages. Note smooth scrolling does not
+# work with the `:scroll-px` command.
+# Type: Bool
+c.scrolling.smooth = True
 
 # Position of the status bar.
 # Type: VerticalPosition

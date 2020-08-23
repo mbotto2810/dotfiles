@@ -36,7 +36,7 @@ alias \
 	xr="sudo xbps-remove -R" \
 	xq="xbps-query" \
 	z="zathura" \
-    gcc="gcc -Wextra -Wall" \
+    gcc="gcc -Wextra -pedatic -ansi -Wall" \
     tcc="tcc -Wall"
 
 alias \
