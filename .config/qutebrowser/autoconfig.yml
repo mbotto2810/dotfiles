@@ -6,7 +6,8 @@
 
 config_version: 2
 settings:
-  content.javascript.enabled:
-    global: false
-  scrolling.smooth:
-    global: true
+  bindings.commands:
+    global:
+      normal:
+        ',M': hint links spawn mpv {hint-url}
+        ',m': spawn mpv {url}

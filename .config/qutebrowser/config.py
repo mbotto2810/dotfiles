@@ -553,3 +553,9 @@ c.colors.tabs.pinned.selected.even.bg = '#d5c4a1'
 # selective inversion of everything": Combines the two variants   above.
 # Type: Bool
 c.colors.webpage.darkmode.enabled = True
+
+
+config.bind(',J', 'set content.javascript.enabled true')
+config.bind(',j', 'set content.javascript.enabled false')
+config.bind(',m', 'spawn mpv {url}')
+config.bind(',M', 'hint links spawn mpv {hint-url}')
