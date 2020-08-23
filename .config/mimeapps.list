@@ -37,3 +37,4 @@ application/x-extension-shtml=userapp-IceCat-AY1KL0.desktop;
 application/xhtml+xml=userapp-IceCat-AY1KL0.desktop;
 application/x-extension-xhtml=userapp-IceCat-AY1KL0.desktop;
 application/x-extension-xht=userapp-IceCat-AY1KL0.desktop;
+application/atom+xml=org.qutebrowser.qutebrowser.desktop;firefox.desktop;

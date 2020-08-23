@@ -40,7 +40,9 @@ https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+usernam
 
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_ufhZd8W48-_ofWmAfpmw
 
-https://www.youtube.com/feeds/videos.xml?channel_id=Bisqwit
+https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=JonGjengset&duration_min=0&duration_max=&format=Atom
+
+https://rss-bridge.snopyta.org/?action=display&bridge=Youtube&context=By+username&u=Bisqwit&duration_min=0&duration_max=&format=Atom
 
 https://invidio.us/feed/channel/UCYO_jab_esuFRV4b17AJtAw
 

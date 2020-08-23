@@ -14,7 +14,7 @@ Plug 'junegunn/seoul256.vim'
 Plug 'morhetz/gruvbox'
 Plug 'junegunn/vim-journal'
 Plug 'lervag/vimtex'
-Plug 'w0rp/ale',{ 'on':  'ALEToggle' }
+Plug 'w0rp/ale'
 Plug 'junegunn/rainbow_parentheses.vim'
 Plug 'nightsense/forgotten'
 Plug 'zaki/zazen'
