@@ -6,8 +6,5 @@
 
 config_version: 2
 settings:
-  bindings.commands:
-    global:
-      normal:
-        ',M': hint links spawn mpv {hint-url}
-        ',m': spawn mpv {url}
+  content.javascript.enabled:
+    global: true
